@@ -1,0 +1,17 @@
+.banner{ width:1197px; text-align:center; overflow:hidden; margin:0 auto; position:relative; }
+#bn {height: 470px;	position: relative;	overflow: hidden;}
+
+#bn .tu {text-align: center;display: block;	margin-right: auto;	margin-left: auto;}
+#bn .tu img{
+	width: 100%;
+}
+#bn .tu .ss1{ width:1197px; height:470px;  display:block; }
+#bn .tu .ss2{ width:1197px; height:470px;  display:block; }
+#bn .tu .ss3{ width:1197px; height:470px;  display:block; }
+
+#bn .tu .lianjie {display: block;}
+#bn #hao .xu {background-image: url(../images/imagehei.png);display: inline;float: left;height: 32px;width: 32px;line-height: 32px;color: #FFFFFF;font-size: 16px;font-weight: bolder;cursor:pointer;text-align:center;color:#cb001e;}
+#bn #hao {position: absolute;left:590px;height: 32px;width: 330px;z-index: 300;bottom:0px;}
+#bn #hao span{background-image:url(../images/imagehei.png);display:inline;float:left;height:32px;width:32px;line-height:32px;font-size:16px;font-weight:bold;cursor:pointer;text-align:center;}
+#bn #hao{position:absolute;right:50px;width:200px;height:32px;z-index:300;bottom:10px;}
+#bn #hao span.on{background:url(../images/imagefen.png);color:#fff;}
